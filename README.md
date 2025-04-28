@@ -17,5 +17,5 @@ Use this as a starting point to complete the WDD 231 personal activity. We will 
 
 - `npm run build` to build final files when you are ready to turn in.
 
-https://grand-granita-9a5fea.netlify.app/
+https://cse231mnhthompson.netlify.app/
 
